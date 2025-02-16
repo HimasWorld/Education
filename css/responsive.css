@@ -1,5 +1,5 @@
 /*
-  Theme Name: Edubin - LMS Education HTML Template
+  Theme Name: RKSHS - Rangpur Kalibati Secondary High School
   Author: Humayun Ahmed
   Author URL: https://themeforest.net/user/pixelcurve
   Support: humayunahmed82@gmail.com
